@@ -75,8 +75,7 @@ Choose an option:
 
 ## 🤝 Autor
 
-Creado con pasión por [TuNombre].  
-¡Contribuciones y sugerencias son siempre bienvenidas!
+Creado con pasión por Rodrigo Acevedo.  
 
 ---
 
